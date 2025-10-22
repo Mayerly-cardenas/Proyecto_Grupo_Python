@@ -1,0 +1,14 @@
+[
+  {
+    "id_matricula": "M001",
+    "id_estudiante": "E001",
+    "periodo_academico": "2025-01",
+    "id_cursos": ["C001", "C002"]
+  },
+  {
+    "id_matricula": "M002",
+    "id_estudiante": "E002",
+    "periodo_academico": "2025-01",
+    "id_cursos": ["C003"]
+  }
+]

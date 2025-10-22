@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+<<<<<<< HEAD
+    <option name="sdkName" value="uv (Proyecto_Grupo_Python)" />
+  </component>
+=======
+    <option name="sdkName" value="Python 3.13 (Proyecto_Grupo_Python)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 virtualenv at C:\Users\Santiago\PycharmProjects\Ejercicios_Modulo3\.venv" project-jdk-type="Python SDK" />
+>>>>>>> e5ad71a0664b5316687b78243bbcd4e6fa53cdb4
+</project>
