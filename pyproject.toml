@@ -9,4 +9,3 @@ dependencies = [
     "rich>=14.2.0",
     "ruff>=0.14.1",
 ]
-gitgit
